@@ -1,5 +1,5 @@
-# SAR in simple terminology
-This is a summary of Synthetic Aperture Radar (SAR) in simple plain language and terms. 
+# SAR in simple terms
+This is a summary of Synthetic Aperture Radar (SAR) in simple plain language and terminology. 
 
 **Definition:**
 
