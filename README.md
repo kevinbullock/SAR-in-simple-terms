@@ -1,4 +1,4 @@
-# SAR-for-normal-human-beings
+# SAR in simple terminology
 This is a summary of Synthetic Aperture Radar (SAR) in simple plain language and terms. 
 
 **Definition:**
