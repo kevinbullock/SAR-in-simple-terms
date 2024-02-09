@@ -5,7 +5,7 @@ This is a summary of Synthetic Aperture Radar (SAR) in simple plain language and
 
 SAR stands for Synthetic Aperture Radar. This means:
 - Synthetic: artifical, not real or genuine.
-- Aperture: (the actual definition of aperture is an opening, as a hole, slit, crack, gap, etc.)
+- Aperture: in this context, aperture means the antenna that sends out a microwave signal (the actual definition of aperture is an opening, as a hole, slit, crack, gap, etc.)
 - Radar: stands for Radio Detection and Ranging; a device for determining the presence and location of an object by measuring the time for the echo of a radio wave to return from it and the direction from which it returns.
 
 **Applications:**
