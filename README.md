@@ -18,4 +18,5 @@ SAR stands for Synthetic Aperture Radar. This means:
 3) monitor the integrity of costly infrastructures in the oil, gas and mining industries 
 4) disasters preparedness or response: volcanoes could also be monitored to to try to model risk of eruptions. After an earthquake, you could measure the displacement of the surface for example. 
 **Reference material:**
-- I found this to be very helpful, although it is technical https://asf.alaska.edu/information/sar-information/what-is-sar/ 
+- I found this to be very helpful, although it is technical https://asf.alaska.edu/information/sar-information/what-is-sar/
+- Helpful overview and diagrams https://pro.arcgis.com/en/pro-app/latest/help/analysis/image-analyst/introduction-to-synthetic-aperture-radar.htm
