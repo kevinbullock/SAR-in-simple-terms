@@ -8,6 +8,8 @@ SAR stands for Synthetic Aperture Radar. This means:
 - Aperture: this part of SAR confused me, as the definition of aperture is an opening, such as a hole or gap. Aperture is commonly used in photography, describing the width of the hole in which light passes through. In the context of SAR, the aperture is the size of the antenna that recieves the signal, and, the reason it is "synthetic" is because it uses the movement of the antenna, in most cases the movement along an orbit, to artifically increase the size of the aperture. i.e. it is "faking" the aperture size by moving in a certain direction.
 - Radar: stands for Radio Detection and Ranging; a device for determining the presence and location of an object by measuring the time for the echo of a radio wave to return from it and the direction from which it returns.
 
+- so SAR actually has an acronynm nested in the acronym. the long form is: Synthetic Aperture Radio Detection and Ranging.
+
 **Applications:**
 - SAR can be used for a miltary or government, SAR is useful for spying on other countries, for example identifying vehicles, ships and troop movement from another country, it could be an adversary or an allie. 
 - SAR is useful for understanding the conditions after a major natural disaster such as a hurricane, tornado, flood or earthquake.
