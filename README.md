@@ -11,11 +11,12 @@ SAR stands for Synthetic Aperture Radar. This means:
 - so SAR actually has an acronynm nested in the acronym. the long form is: Synthetic Aperture Radio Detection and Ranging.
 
 **Applications:**
-- SAR can be used for a miltary or government, SAR is useful for spying on other countries, for example identifying vehicles, ships and troop movement from another country, it could be an adversary or an ally. 
-- SAR is useful for understanding the conditions after a major natural disaster such as a hurricane, tornado, flood or earthquake.
-- SAR can be used to measure the geometry of the Earth, much like you would measure the size of furniture. 
-- SAR can detect changes to the Earth's suface caused by water erosion, excavation, landslide, or even if a vehicle has driven across a homogenous surface like a field or desert.
-- Areas with a risk of landslide (metro/underground construction in a city)
+- SAR can be used for a miltary or government, SAR is useful for spying on other countries, for example identifying vehicles, ships and troop movement from another country, it could be an adversary or an ally. For example, a country could spy on an adversary to look for vehicles, tanks, aircraft, ships, or to track movement. Another example would be a country "verifying" another country's assets. 
+- SAR is useful for understanding the conditions after a major natural disaster such as a hurricane, tornado, flood or earthquake. SAR can show where floodwaters are, where a fire is burning, and changes in the height of the ground, which could change after an earthquake.
+- SAR can be used to measure the geometry of the Earth, much like you would measure the size of furniture. This would indicate the slope of a hill or mountain, or the corresponding heights.
+- SAR can detect changes to the Earth's suface caused by water erosion, excavation, landslide, or even if a vehicle has driven across a homogenous surface like a field or desert. SAR is very sensitive to small changes in height.
+- SAR can help scientists determine areas with a risk of landslide.
+- SAR can help engineers with construction projects, or monitor the stuctural integrity of bridges, buildings and freeways.
 - Infrastructures construction sites (freeways, bridges etc.)
 - Monitor the integrity of costly infrastructures in the oil, gas and mining industries
 - Disaster preparedness or response: volcanoes could also be monitored to to try to model risk of eruptions. After an earthquake, you could measure the displacement of the surface for example.
