@@ -1,5 +1,5 @@
 # SAR in simple terms
-This is a summary of Synthetic Aperture Radar (SAR) in simple plain language and terminology. 
+Recently, I wanted to learn more about Synthetic Aperture Radar (SAR) technology, and found it very vague and mysterious, despite it being invented in 1951!! So this is my attempt to gather information and summarize in simple plain language and terminology. 
 
 **Definition:**
 
