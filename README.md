@@ -27,15 +27,15 @@ SAR stands for Synthetic Aperture Radar. This means:
 | Source                                            | License       | URL  | Notes |
 | -------------------------------- | ---------- | ---------------------------- | --------------------------
 | Sentinel-1| Creative Commons CC BY-SA 3.0 | https://browser.dataspace.copernicus.eu/ | 
-| Iceye| Commercial | https://www.iceye.com/en-us/ | Some open data available as CC
-| Radarsat| update | update | Some open data available as CC
-| COSMO-SkyMed| update | update | Some open data available as CC
-| Capella| update | update | Some open data available as CC
-| Umbra| update | update | Some open data available as CC
-| SAOCOM| update | update | Some open data available as CC
-| ALOS-4 | update | update | Some open data available as CC
-| Hongtu-1 (PIESAT-1) | update | update | Some open data available as CC
-| SAR Lupe | update | update | Some open data available as CC
-| TecSAR | update | update | Some open data available as CC
-| RISAT | update | update | Some open data available as CC
-| TerraSAR-X | update | update | Some open data available as CC
+| Iceye| Commercial | https://www.iceye.com/en-us/ | Some open data available via [ESA](https://earth.esa.int/eogateway/catalog/iceye-esa-archive)
+| Radarsat| Sort of Open* | https://earth.esa.int/eogateway/missions/radarsat | *conditions apply for open access
+| COSMO-SkyMed| Open* | https://earth.esa.int/eogateway/missions/cosmo-skymed | *requires approval from ESA
+| Capella| Commercial | https://www.capellaspace.com/ | Some open data available as CC BY 4.0 on [AWS](https://registry.opendata.aws/)
+| Umbra| Commercial | https://umbra.space/ | Some open data available as CC BY 4.0  on [AWS](https://registry.opendata.aws/)
+| TerraSAR-X | Commercial | https://space-solutions.airbus.com/imagery/our-optical-and-radar-satellite-imagery/radar-constellation/ | n/a
+| ALOS-4 | Open | https://global.jaxa.jp/projects/sat/alos4/ | Open data info [here](https://www.eorc.jaxa.jp/ALOS/en/dataset/alos_open_and_free_e.htm)
+| Hongtu-1 (PIESAT-1) | Open | https://www.piesat.cn/website/en-us/PIE.html | n/a
+| SARLupe and SARah | Government | https://www.dlr.de/en/research-and-transfer/security/defence-research/sarah-satellite-based-radar-reconnaissance-system | n/a
+| TecSAR | Commercial | https://www.iai.co.il/p/tecsar | n/a
+| RISAT | Government | https://www.isro.gov.in/RISAT_1.html | I believe it's decommissioned
+| SAOCOM| Unknown | https://catalogos.conae.gov.ar/ | Some data available through [ESA](https://earth.esa.int/eogateway/missions/saocom/data)
