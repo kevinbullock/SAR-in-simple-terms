@@ -22,3 +22,8 @@ SAR stands for Synthetic Aperture Radar. This means:
 **Reference material:**
 - I found this to be very helpful, although it is technical https://asf.alaska.edu/information/sar-information/what-is-sar/
 - Helpful overview and diagrams https://pro.arcgis.com/en/pro-app/latest/help/analysis/image-analyst/introduction-to-synthetic-aperture-radar.htm
+
+**SAR Sources**
+| Source                                            | License       | URL                                                                                   |
+| ----------------------------------------------------------------- | ---------- | ------------------------------------------------------
+| Sentinel-1| Open | https://browser.dataspace.copernicus.eu/
