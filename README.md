@@ -28,14 +28,14 @@ SAR stands for Synthetic Aperture Radar. This means:
 | -------------------------------- | ---------- | ---------------------------- | --------------------------
 | Sentinel-1| Creative Commons CC BY-SA 3.0 | https://browser.dataspace.copernicus.eu/ | 
 | Iceye| Commercial | https://www.iceye.com/en-us/ | Some open data available as CC
-| Radarsat| Commercial | https://www.iceye.com/en-us/ | Some open data available as CC
-| COSMO-SkyMed| Commercial | https://www.iceye.com/en-us/ | Some open data available as CC
-| Capella| Commercial | https://www.iceye.com/en-us/ | Some open data available as CC
-| Umbra| Commercial | https://www.iceye.com/en-us/ | Some open data available as CC
-| SAOCOM| Commercial | https://www.iceye.com/en-us/ | Some open data available as CC
-| ALOS-4 | Commercial | https://www.iceye.com/en-us/ | Some open data available as CC
-| Hongtu-1 (PIESAT-1) | Commercial | https://www.iceye.com/en-us/ | Some open data available as CC
-| SAR Lupe | Commercial | https://www.iceye.com/en-us/ | Some open data available as CC
-| TecSAR | Commercial | https://www.iceye.com/en-us/ | Some open data available as CC
-| RISAT | Commercial | https://www.iceye.com/en-us/ | Some open data available as CC
-| TerraSAR-X | Commercial | https://www.iceye.com/en-us/ | Some open data available as CC
+| Radarsat| update | update | Some open data available as CC
+| COSMO-SkyMed| update | update | Some open data available as CC
+| Capella| update | update | Some open data available as CC
+| Umbra| update | update | Some open data available as CC
+| SAOCOM| update | update | Some open data available as CC
+| ALOS-4 | update | update | Some open data available as CC
+| Hongtu-1 (PIESAT-1) | update | update | Some open data available as CC
+| SAR Lupe | update | update | Some open data available as CC
+| TecSAR | update | update | Some open data available as CC
+| RISAT | update | update | Some open data available as CC
+| TerraSAR-X | update | update | Some open data available as CC
