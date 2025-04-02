@@ -26,4 +26,4 @@ SAR stands for Synthetic Aperture Radar. This means:
 **SAR Sources**
 | Source                                            | License       | URL                                                                                   |
 | ----------------------------------------------------------------- | ---------- | ------------------------------------------------------
-| Sentinel-1| Open | https://browser.dataspace.copernicus.eu/
+| Sentinel-1| Creative Commons CC BY-SA 3.0 | https://browser.dataspace.copernicus.eu/
