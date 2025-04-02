@@ -20,6 +20,7 @@ SAR stands for Synthetic Aperture Radar. This means:
 - SAR can also monitor the integrity of costly infrastructures in the oil, gas and mining industries
   
 **Reference material:**
+- Excellent "SAR 101" resource, thank you NASA!: https://www.earthdata.nasa.gov/learn/earth-observation-data-basics/sar
 - I found this to be very helpful, although it is technical https://asf.alaska.edu/information/sar-information/what-is-sar/
 - Helpful overview and diagrams https://pro.arcgis.com/en/pro-app/latest/help/analysis/image-analyst/introduction-to-synthetic-aperture-radar.htm
 
@@ -27,6 +28,7 @@ SAR stands for Synthetic Aperture Radar. This means:
 | Source                                            | License       | URL  | Notes |
 | -------------------------------- | ---------- | ---------------------------- | --------------------------
 | Sentinel-1| Creative Commons CC BY-SA 3.0 | https://browser.dataspace.copernicus.eu/ | 
+| NISAR| Open, licesne TBD | https://nisar.jpl.nasa.gov/ | May 20th, 2025 scheduled launch
 | Iceye| Commercial | https://www.iceye.com/en-us/ | Some open data available via [ESA](https://earth.esa.int/eogateway/catalog/iceye-esa-archive)
 | Radarsat| Sort of Open* | https://earth.esa.int/eogateway/missions/radarsat | *conditions apply for open access
 | COSMO-SkyMed| Open* | https://earth.esa.int/eogateway/missions/cosmo-skymed | *requires approval from ESA
