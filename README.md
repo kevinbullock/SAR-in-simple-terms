@@ -28,7 +28,7 @@ SAR stands for Synthetic Aperture Radar. This means:
 | Source                                            | License       | URL  | Notes |
 | -------------------------------- | ---------- | ---------------------------- | --------------------------
 | Sentinel-1| Creative Commons CC BY-SA 3.0 | https://browser.dataspace.copernicus.eu/ | 
-| NISAR| Open, licesne TBD | https://nisar.jpl.nasa.gov/ | May 20th, 2025 scheduled launch
+| NISAR| Open, license TBD | https://nisar.jpl.nasa.gov/ | Jul 30th, 2025 scheduled launch
 | Iceye| Commercial | https://www.iceye.com/en-us/ | Some open data available via [ESA](https://earth.esa.int/eogateway/catalog/iceye-esa-archive)
 | Radarsat| Sort of Open* | https://earth.esa.int/eogateway/missions/radarsat | *conditions apply for open access
 | COSMO-SkyMed| Open* | https://earth.esa.int/eogateway/missions/cosmo-skymed | *requires approval from ESA
